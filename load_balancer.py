@@ -55,7 +55,6 @@ def create_alb(name, subnet_ids, security_group_id, ec2_instance_id):
         print(f"Error: {e}")
 
 if __name__ == "__main__":
-    # Replace with your own values
     name = "my-alb"
     subnet_ids = ["subnet-03ca36de9a927fe8e", "subnet-09bd0e0acc92d4efa"]
     security_group_id = "sg-02b95c4bb391a2617"
