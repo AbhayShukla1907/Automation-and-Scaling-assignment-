@@ -33,19 +33,24 @@ Before running the scripts, ensure you have the following:
 ## Setup Instructions
 ### Step 1: Create an S3 Bucket
 Create a bucket to store static files of the web application:
-"python create_s3_bucket.py"
+          
+    "python s3_bucket.py"
 ### Step 2: Launch EC2 Instance
 Launch an EC2 instance with the correct AMI ID and configure it as a web server (e.g., Nginx):
-"python launch_ec2.py"
+
+    "python launch_ec2.py"
 ### Step 3: Set Up the Load Balancer
 Create an Application Load Balancer (ALB) and register the EC2 instance with it:
-"python create_load_balancer.py"
+
+    "python load_balancer.py"
 ### Step 4: Configure Auto Scaling
 Set up an Auto Scaling Group (ASG) to automatically scale the EC2 instances based on CPU utilization:
-"python setup_auto_scaling.py"
+
+    "python auto_scaling.py"
 ### Step 5: Set Up SNS Notifications
 Create SNS topics and configure alerts to notify administrators about the infrastructure's health, scaling events, or traffic surges:
-"python setup_sns.py"
+
+    "python sns_notification.py"
 ### tep 6: Automate Infrastructure Deployment
 To automate the deployment, updates, or teardown of the entire infrastructure, run:
 "python deploy_infrastructure.py"
