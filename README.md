@@ -1,4 +1,4 @@
-# Web Application Lifecycle Management and Monitoring with Auto Scaling, Load Balancing, and Notifications
+# Automation-and-Scaling-assignment-
 This project automates the deployment and management of a web application hosted on AWS EC2 instances. It includes auto-scaling based on traffic, load balancing, health monitoring, and sending notifications to administrators about scaling events and infrastructure status.
 
 ## Project Overview
