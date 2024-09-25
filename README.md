@@ -76,9 +76,9 @@ Name: Abhay Kumar Shukla
 
 Email: abhay06072002@gmail.com
 
-GitHub: AbhayShukla1907
+GitHub: https://github.com/AbhayShukla1907
 
-LinkedIn: Abhay Kumar Shukla
+LinkedIn: https://www.linkedin.com/in/abhay-shukla-65818330a/
 
 
 This README serves as a guide for the project and provides all the essential details to understand and run the automation scripts.
