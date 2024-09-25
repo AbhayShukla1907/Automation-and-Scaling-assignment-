@@ -53,7 +53,8 @@ Create SNS topics and configure alerts to notify administrators about the infras
     "python sns_notification.py"
 ### tep 6: Automate Infrastructure Deployment
 To automate the deployment, updates, or teardown of the entire infrastructure, run:
-"python deploy_infrastructure.py"
+
+    "python deploy_infrastructure.py"
 
 
 ## Optional Enhancements
