@@ -19,7 +19,6 @@ def create_s3_bucket(bucket_name, region=None):
     return True
 
 if __name__ == "__main__":
-    # Set your bucket name and region
     bucket_name = "abhaywebbucket"
     region = "us-west-2"
     
