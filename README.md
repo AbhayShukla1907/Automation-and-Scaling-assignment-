@@ -73,9 +73,13 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 For any issues, feel free to reach out:
 
 Name: Abhay Kumar Shukla
+
 Email: abhay06072002@gmail.com
+
 GitHub: AbhayShukla1907
+
 LinkedIn: Abhay Kumar Shukla
+
 
 This README serves as a guide for the project and provides all the essential details to understand and run the automation scripts.
 
